@@ -2,10 +2,13 @@
 
 Class: [Engineer](https://sw5e.com/characters/classes/Engineer)
 > Engineers are the experts and professionals who rely on skill, bravery, and their tools to survive and keep others alive. While they do not claim to be fighters, their mere presence can turn the tide of battle or simply keep operations running.
+
 Archetype: [Unstable Engineering](https://sw5e.com/characters/archetypes/Unstable%20Engineering)
 > Those engineers who choose the Unstable Engineering discipline create and use untested combinations, resulting in powerful and often unpredictable effects.
+
 Species: [Verpine](https://sw5e.com/characters/species/Verpine)
 > Verpine culture is oriented around crafting; they are noteworthy manufacturers of weapons, shield generators, armor, as well as personal use items such as breathing apparatuses.
+
 Background: [Holonet Technician](https://sw5e.com/characters/backgrounds/Holonet%20Technician)
 > You have the codes to a distributor station which gives you access to all information sent through it. This information comes in the form of useful (and sometimes sensitive) information on a topic you choose each day to tune into; this information isn’t always reliable or interesting. 
 
